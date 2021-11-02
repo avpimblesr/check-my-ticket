@@ -1,4 +1,4 @@
-import './App.css';
+import '../App.css';
 import Powerball from './Powerball';
 
 function App() {
